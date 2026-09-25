@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: darkblue;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.5;
+}
+footer {
+    margin-top: 40px;
+    border: 1px solid black;
+    padding-top: 10px;
+}
