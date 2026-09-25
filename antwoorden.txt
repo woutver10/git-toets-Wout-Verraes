@@ -1,8 +1,21 @@
+ANTWOORDEN TOETS GIT & GITHUB
+Naam: Wout Verraes
 OPDRACHT 3
 1.
+Commando: git log --all --oneline --grep="Basiswebsite toegevoegd"
+Antwoord: [nog opzoeken]
+
 2.
+Commando: git log -1 --oneline -- index.html
+Antwoord: d77f041 Update version text from 'Versie 1' to 'Versie 2'
 3.
+3.
+Commando: git log --all --oneline -S"<p>Versie 2</p>" -- index.html
+Antwoord: d77f041
+
 4.
+Commando: git show [hash van Basiswebsite toegevoegd]
+Antwoord: [wijzigingen van die commit]
 OPDRACHT 7
 a.
 b.
